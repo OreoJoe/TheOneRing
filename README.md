@@ -1,2 +1,0 @@
-# TheOneRing
-TheOneRing - Minecraft server
